@@ -15,7 +15,9 @@
 ##  GitHub Statistics
 
 
-![Top Langs](output.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linabnz&layout=compact&theme=radical)
+
+
 
 
 
