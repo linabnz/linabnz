@@ -15,7 +15,7 @@
 ##  GitHub Statistics
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linabnz&layout=compact&theme=radical&count_private=true&exclude_repo=repo1,repo2&langs_count=8&custom_title=Most%20Used%20Languages&hide_border=false&bg_color=0D1117&title_color=FF6F61&text_color=FFFFFF&icon_color=FF6F61)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linabnz&layout=compact&theme=radical&count_private=true&exclude_repo=repo1,repo2&langs_count=8)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linabnz&show_icons=true&theme=radical)
