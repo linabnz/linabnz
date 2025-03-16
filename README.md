@@ -1,4 +1,4 @@
-### Hi, it's me Benzé! 👋
+### Hi, it's me Benzé! 
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"> Welcome to my GitHub profile!
 
@@ -15,7 +15,8 @@
 ##  GitHub Statistics
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linabnz&layout=compact&theme=radical&count_private=true&exclude_repo=repo1,repo2&langs_count=8)
+![Top Langs](output.png)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linabnz&show_icons=true&theme=radical)
