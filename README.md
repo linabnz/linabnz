@@ -8,8 +8,7 @@
 ---
 
 ##  About Me
-💡 Data Scientist | 📊 Machine Learning & Big Data Enthusiast | 💻 Python Lover  
-🎯 Passionnée par l'IA, l'analyse de données et la tech !  
+ Data Scientist |  Machine Learning & Big Data Enthusiast |  Python Lover  
 
 ---
 
