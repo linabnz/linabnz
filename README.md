@@ -7,8 +7,7 @@
 
 ## 📊 GitHub Statistics
 
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linabnz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linabnz&layout=compact&theme=radical&exclude_repo=repo1,repo2)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linabnz&show_icons=true&theme=radical)
